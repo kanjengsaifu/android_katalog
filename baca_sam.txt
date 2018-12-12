@@ -1,0 +1,17 @@
+user : 
+
+1.username : admin
+  password : admin
+
+2.username : syabhri
+  password : syabhri
+
+3.username : ozi
+  password : admin
+
+Note : password di enkripsi pakai SHA1.
+
+kurang controller user untuk crud user tapi untuk aplikasi
+client ndak pakai itu, crud user untuk app admin, sementara pakai 
+user yang sudah ada dulu nanti tak selesakikan crud user sama 
+app adminya sekalian
